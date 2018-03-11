@@ -10,6 +10,14 @@ Rosa links: #d500f9
 
 /* Aquí va el comentario */
 
+.bannerOnePiece{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+
+}
+
 html{
   font-family: 'Nunito', sans-serif;
 }
